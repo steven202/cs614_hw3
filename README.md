@@ -10,3 +10,4 @@ conda env create -f environment.yml
 
 ### To run the single layer RNN, please refer to 1 - Simple Sentiment Analysis.ipynb
 ### To run the multi-layer RNN, please refer to 2 - Upgraded Sentiment Analysis.ipynb
+### The results in the report is mainly based on 2 - Upgraded Sentiment Analysis.ipynb
